@@ -1,0 +1,1 @@
+Function overloading − The assignment of more than one behavior to a particular function. The operation performed varies by the types of objects or arguments involved.
